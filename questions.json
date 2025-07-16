@@ -1,0 +1,149 @@
+{
+  "heading": "Flip, Turn, Slide and Symmetry",
+  "topics": [
+    {
+      "heading": "Flip, Turn, Slide and Symmetry",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "Zara found a glowing pattern on the wall. Does this picture have symmetry?<br><img width='40%' src='./assests/images/1.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 2,
+    "question": "Leo saw a unique leaf. Does this picture have symmetry?<br><img width='40%' src='./assests/images/2.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": "Does this picture have symmetry?<br><img width='40%' src='./assests/images/3.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": "Does this picture have symmetry?<br><img width='40%' src='./assests/images/4.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": "Does this picture have symmetry?<br><img width='40%' src='./assests/images/5.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": "Does this picture have symmetry?<br><img width='40%' src='./assests/images/6.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": "Which picture has symmetry?",
+    "options": [
+      { "image": "./assests/option/1.png" },
+      { "image": "./assests/option/2.png" },
+      { "image": "./assests/option/3.png" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": "Which picture has symmetry?",
+    "options": [
+      { "image": "./assests/option/4.png" },
+      { "image": "./assests/option/5.png" },
+      { "image": "./assests/option/6.png" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 9,
+    "question": "Mia touched a floating tile, and a symbol glowed. Does this picture have symmetry?<br><img width='40%' src='./assests/images/7.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 10,
+    "question": "Does this picture have symmetry?<br><img width='40%' src='./assests/images/8.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 11,
+    "question": "Which picture has symmetry?",
+    "options": [
+      { "image": "./assests/option/7.png" },
+      { "image": "./assests/option/8.png" },
+      { "image": "./assests/option/9.png" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": "Which will match correctly with given picture?<br><img width='40%' src='./assests/images/9.png'>",
+    "options": [
+      { "image": "./assests/option/10.png" },
+      { "image": "./assests/option/11.png" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": "Does the following picture show symmetry?<br><img width='40%' src='./assests/images/10.png'>",
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": "Does the dotted line represent a line of symmetry?<br><img width='40%' src='./assests/images/11.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": "Does the dotted line represent a line of symmetry?<br><img width='40%' src='./assests/images/12.png'>",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  }
+]
+ 
+    }
+  ]
+}
